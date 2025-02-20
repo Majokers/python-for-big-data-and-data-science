@@ -1,0 +1,1 @@
+print("Polianytsia Andriy, IPZ_GROUP_3")
